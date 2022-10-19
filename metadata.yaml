@@ -1,0 +1,30 @@
+_repo: John-de-Lancaster-vol-I_69055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cumberland, Richard
+    gutenberg_agent_id: '55075'
+    url: http://www.gutenberg.org/2009/agents/55075
+description: ''
+gutenberg_issued: '2022-09-27'
+identifiers:
+  gutenberg: '69055'
+language: en
+pgterms:marc904:
+- https://archive.org/details/johndelancastern01cumb/page/n10/mode/2up
+- https://archive.org/details/johndelancastern03cumb/page/n10/mode/2up
+- https://archive.org/details/johndelancastern02cumb/page/n10/mode/2up
+pgterms:marc905: 20210115222846cumberland
+pgterms:marc906: '1809'
+pgterms:marc907: GB
+production_note: Sonya Schermann, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Lackington, Allen, and Co.,1809.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: John de Lancaster; vol. I.
+url: http://www.gutenberg.org/ebooks/69055
